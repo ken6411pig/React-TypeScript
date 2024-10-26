@@ -53,7 +53,7 @@ const MedicalRecordApp = () => {
           <p className="text-gray-800 font-medium mb-2">
             The patient who denied systemic disease before. NKA. No op history.
           </p>
-          <p className="text-gray-800 font-medium mb-2">Negative findings:</p>
+          <p className="font-semibold mb-2">Negative findings:</p>
           <p className="text-gray-700 leading-relaxed">
             chills(-), fever(-), cough(-), sputum(-), hemoptysis(-), chest tightness(-), chest pain(-), 
             refer pain(-), cold sweating(-), SOB(-), DOE(-), PND(-), orthopnea(-), abdominal pain(-), 
