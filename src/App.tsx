@@ -74,7 +74,7 @@ const MedicalRecordApp = () => {
 
         <div className="mt-4">
           <p className="font-semibold mb-2">CAD risk factors:</p>
-          <p>DM (-), HT (-), hyperlipidemia (-), smoking (-), family history (-), 
+          <p>DM (-), HTN (-), hyperlipidemia (-), smoking (-), family history (-), 
           Old age (-) Male (-) Post menopause (-)</p>
         </div>
 
