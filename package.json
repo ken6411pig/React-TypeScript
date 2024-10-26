@@ -14,8 +14,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
-    "predeploy": "npm run build",   // 添加這行
-    "deploy": "gh-pages -d build"   //
+    "predeploy": "npm run build",   
+    "deploy": "gh-pages -d build"  
   },
   "keywords": [],
   "author": "",
