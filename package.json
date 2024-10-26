@@ -1,4 +1,11 @@
 {
+  "homepage": "https://ken6411pig.github.io/React-TypeScript",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
+{
   "name": "react-typescript",
   "version": "1.0.0",
   "type": "module",
